@@ -1,1 +1,2 @@
-sinesp_client
+sinesp_client==1.9
+requests==2.8.1
