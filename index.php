@@ -1,6 +1,6 @@
 <?php
 
-$output = shell_exec('script.py')
+$output = exec("python script.py");
 
 echo $output
 ?>
