@@ -1,6 +1,6 @@
 <?php
 
-$output = exec("python3 script.py");
+$output = exec("python script.py");
 
 echo $output
 ?>
